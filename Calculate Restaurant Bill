@@ -1,1 +1,5 @@
-
+class Calculate {
+public static void main (String args[])
+double price1;
+double price2;
+bill = price1 + price2 ;
